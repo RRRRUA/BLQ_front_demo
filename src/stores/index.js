@@ -1,0 +1,11 @@
+// 导出所有store
+export { useMessageStore } from './messageStore'
+export { useMessageTypeStore } from './messageTypeStore'
+export { useTemplateStore } from './templateStore'
+export { useDepartmentStore } from './DepartmentStore'
+export { usePositionStore } from './PositionStore'
+export { useChannelStore } from './channelStore'
+export { useInitStore } from './initStore'
+export { useUserStore } from './userStore'
+export { useEmployeesStore } from './employeesStore'
+export { useSalaryStore } from './salaryStore'
